@@ -1,2 +1,11 @@
 voila
 voila-material
+pandas
+ipywidgets
+plotly
+plotly.express
+matplotlib.pyplot
+folium
+plotly.graph_objects
+seaborn
+numpy
