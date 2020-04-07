@@ -6,6 +6,5 @@ plotly
 plotly.express
 matplotlib
 folium
-plotly.graph_objects
 seaborn
 numpy
