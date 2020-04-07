@@ -4,7 +4,7 @@ pandas
 ipywidgets
 plotly
 plotly.express
-matplotlib.pyplot
+matplotlib
 folium
 plotly.graph_objects
 seaborn
